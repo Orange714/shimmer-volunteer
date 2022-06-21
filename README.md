@@ -92,7 +92,7 @@ yarn
 - 💻IT-CJF 
 - 💻Liliang  
 - 🎨Fangmin  
-- 🏗️[<img src="https://img.shields.io/github/followers/Orange714?label=follow&style=social" height="28" title="Orange714" />](https://github.com/Orange714) 
+- 🏗️Orange714[<img src="https://img.shields.io/github/followers/Orange714?label=follow&style=social" height="28" title="Follow me" />](https://github.com/Orange714) 
 
 ## Contributors ✨
 
