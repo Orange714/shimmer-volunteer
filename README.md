@@ -89,7 +89,10 @@ yarn
 
 
 ## 致谢
-IT-CJF 
+- 💻IT-CJF 
+- 💻Liliang  
+- 🎨Fangmin  
+- 🏗️[<img src="https://img.shields.io/github/followers/Orange714?label=follow&style=social" height="28" title="Orange714" />](https://github.com/Orange714) 
 
 ## Contributors ✨
 
@@ -101,6 +104,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://blog.csdn.net/caijunfen"><img src="https://avatars.githubusercontent.com/u/18321599?v=4?s=100" width="100px;" alt=""/><br /><sub><b>腾讯全栈开发  IT-CJF</b></sub></a><br /><a href="https://github.com/liyupi/code-nav/commits?author=jwcjf" title="Code">💻</a></td>
+   
+  </tr>
+</table>
+
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/Orange714"><img src="https://avatars.githubusercontent.com/u/74440038?v=4?s=100" width="100px;" alt=""/><br /><sub><b>散步前进的Orange714</b></sub></a><br /><a href="https://github.com/liyupi/code-nav/commits?author=Orange714" title="">🍊</a></td>
    
   </tr>
 </table>
